@@ -1,0 +1,25 @@
+
+{
+  "modules": [
+    {
+      "name": "HTML Fundamentals",
+      "hours": 4
+    },
+    {
+      "name": "CSS Styling",
+      "hours": 5
+    },
+    {
+      "name": "JavaScript Programming",
+      "hours": 6
+    },
+    {
+      "name": "DOM Manipulation and Event Handling",
+      "hours": 3
+    },
+    {
+      "name": "AJAX and JSON",
+      "hours": 3
+    }
+  ]
+}

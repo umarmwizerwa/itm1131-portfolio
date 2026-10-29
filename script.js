@@ -6,9 +6,6 @@ let phone = {
         this.battery = this.battery - 10;
     }
 };
-setTimeout(function() {
-    console.log("Hello after 3 seconds!");
-}, 9999);
 phone.useBattery();
 phone.useBattery();
 phone.useBattery();
